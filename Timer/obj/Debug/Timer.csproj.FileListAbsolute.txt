@@ -1,0 +1,10 @@
+D:\LTTQ\Timer\Timer\bin\Debug\Timer.exe.config
+D:\LTTQ\Timer\Timer\bin\Debug\Timer.exe
+D:\LTTQ\Timer\Timer\bin\Debug\Timer.pdb
+D:\LTTQ\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\LTTQ\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\LTTQ\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\LTTQ\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\LTTQ\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\LTTQ\Timer\Timer\obj\Debug\Timer.exe
+D:\LTTQ\Timer\Timer\obj\Debug\Timer.pdb
